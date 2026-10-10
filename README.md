@@ -6,7 +6,9 @@ O projeto tem como objetivo explorar conceitos de estruturação de páginas web
 
 ## 🖥️ Prévia do projeto
 
-![Prévia do Fusion Kitchen](img/previewFusionKitchen.png)
+<p align="center">
+  <img src="img/previewFusionKitchen.png" alt="Prévia do Flip Card Smartphone" width="900">
+</p>
 
 🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto1Proa-SitedeComidas/)**
 
