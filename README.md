@@ -6,7 +6,7 @@ O projeto tem como objetivo explorar conceitos de estruturação de páginas web
 
 ## 🖥️ Prévia do projeto
 
-![Prévia do Fusion Kitchen](img/preview.png)
+![Prévia do Fusion Kitchen](img/previewFusionKitchen.png)
 
 🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto1Proa-SitedeComidas/)**
 
